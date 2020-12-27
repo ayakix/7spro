@@ -1,7 +1,10 @@
 # Custom Keyboard
 
-## Hardware
+<img src="https://github.com/ayakix/7spro/blob/main/images/package.jpg?raw=true" width="640">
 
+<img src="https://github.com/ayakix/7spro/blob/main/images/keyswitch.jpg?raw=true" width="640">
+
+## Hardware
 
 | Item | Product | Price |
 | ---- | ---- | ---- |
@@ -27,6 +30,7 @@ make 7skb:ayakix
 ### Write firmware
 Use [QMK Toolbox](https://github.com/qmk/qmk_toolbox/releases)
 
+<img src="https://github.com/ayakix/7spro/blob/main/images/layout.png?raw=true" width="640">
 
 ## Links
 [QMK Configurator](https://config.qmk.fm/#/7skb/rev1/LAYOUT)
