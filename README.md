@@ -1,10 +1,21 @@
 # Custom Keyboard
 
+## 二代目
+
+<img src="https://github.com/ayakix/7spro/blob/main/images/7sPro2nd.jpg?raw=true" width="640">
+
+
+| Item | Product | Price |
+| ---- | ---- | ---- |
+|  Keyboard | [7sPro](https://yushakobo.jp/shop/7spro/) | 17,600円 |
+|  Key switch | [Gateron KS-9 Silent Red (45g)](https://shop.yushakobo.jp/products/8975) と [Gateron KS-9 Silent White (35g)](https://shop.yushakobo.jp/products/8979) | 1個116円 |
+|  Key top | [XVX 189 XVX Profile Double Shot PBT Keycap Full Set](https://shop.yushakobo.jp/products/8021) | 3,146円 |
+
+## 初代
+
 <img src="https://github.com/ayakix/7spro/blob/main/images/package.jpg?raw=true" width="640">
 
 <img src="https://github.com/ayakix/7spro/blob/main/images/keyswitch.jpg?raw=true" width="640">
-
-## Hardware
 
 | Item | Product | Price |
 | ---- | ---- | ---- |
